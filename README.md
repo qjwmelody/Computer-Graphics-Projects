@@ -7,7 +7,7 @@
 
 
 
-[demo](http://qjwmelody.github.io/Computer-Graphics-Projects/demo/index.html)
+[Demo](http://qjwmelody.github.io/Computer-Graphics-Projects/demo/index.html)
 
 [报告](http://qjwmelody.github.io/Computer-Graphics-Projects/报告.pdf)
 
